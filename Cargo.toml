@@ -1,0 +1,13 @@
+[package]
+name = "set_button_margin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gtk = "0.15.5"
+# The same:
+# [dependencies.gtk]
+# version = "0.15.5"
+# features = ["v3_22"]
